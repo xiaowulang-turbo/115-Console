@@ -9,6 +9,8 @@
 // @grant        none
 // @run-at       document-idle
 // @license      MIT
+// @updateURL    https://greasyfork.org/zh-CN/scripts/558227-115转存助手-115-auto-save/code
+// @downloadURL  https://greasyfork.org/zh-CN/scripts/558227-115转存助手-115-auto-save/code
 // ==/UserScript==
 
 (function() {
