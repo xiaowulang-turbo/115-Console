@@ -1,0 +1,13 @@
+# 流程文档（包含技术细节，不提交到仓库）
+WORKFLOW.md
+
+# 系统文件
+.DS_Store
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.log
